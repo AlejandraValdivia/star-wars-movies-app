@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alejandravaldivia.github.io/csb-ipiqv/static/css/main.2abb0e28.chunk.css",
+    "main.js": "https://alejandravaldivia.github.io/csb-ipiqv/static/js/main.c3340010.chunk.js",
+    "main.js.map": "https://alejandravaldivia.github.io/csb-ipiqv/static/js/main.c3340010.chunk.js.map",
+    "runtime-main.js": "https://alejandravaldivia.github.io/csb-ipiqv/static/js/runtime-main.5886a450.js",
+    "runtime-main.js.map": "https://alejandravaldivia.github.io/csb-ipiqv/static/js/runtime-main.5886a450.js.map",
+    "static/js/2.400d3afd.chunk.js": "https://alejandravaldivia.github.io/csb-ipiqv/static/js/2.400d3afd.chunk.js",
+    "static/js/2.400d3afd.chunk.js.map": "https://alejandravaldivia.github.io/csb-ipiqv/static/js/2.400d3afd.chunk.js.map",
+    "index.html": "https://alejandravaldivia.github.io/csb-ipiqv/index.html",
+    "static/css/main.2abb0e28.chunk.css.map": "https://alejandravaldivia.github.io/csb-ipiqv/static/css/main.2abb0e28.chunk.css.map",
+    "static/js/2.400d3afd.chunk.js.LICENSE.txt": "https://alejandravaldivia.github.io/csb-ipiqv/static/js/2.400d3afd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5886a450.js",
+    "static/js/2.400d3afd.chunk.js",
+    "static/css/main.2abb0e28.chunk.css",
+    "static/js/main.c3340010.chunk.js"
+  ]
+}
